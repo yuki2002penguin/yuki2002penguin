@@ -2,7 +2,7 @@ NLP/ML Research, Engineering Design & Innovation 🚀
 
 # Data Scientist & Software Engineer
 
-Empowering Life through Technology and Science.
+Technically Curious
 
 ---
 
@@ -17,9 +17,9 @@ Empowering Life through Technology and Science.
 
 Dedicated to the intersection of theoretical linguistics and practical engineering design. I leverage a strong foundation in software development and data-driven solutions to build robust and impactful applications.
 
-* 🎓 **Education:** Graduated from **Zhejiang University** in 2025. Currently enrolled at **Institute of Science Tokyo** majoring in **Engineering Design** (Apr 2026 - Expected Mar 2028).
-* 👨‍💻 **Team Collaboration & Development:** Strong hands-on development experience. Co-developed and successfully launched a comprehensive web platform dedicated to assisting students studying abroad in Japan.
-* 📊 **Data Analysis & Product Operations:** Completed a 3-month internship at **ByteDance** (Shenzhen, China) as a TikTok Product Operations Intern. Utilized proprietary data analytics tools to evaluate product metrics, analyze user behavior, and drive data-informed strategies.
+*  **Education:** Graduated from **Zhejiang University** in 2025. Currently enrolled at **Institute of Science Tokyo** majoring in **Engineering Design** (Apr 2026 - Expected Mar 2028).
+*  **Team Collaboration:** Strong hands-on development experience. Co-developed and successfully launched a comprehensive web platform dedicated to assisting students studying abroad in Japan.
+*  **Work:** Completed a 3-month internship at **ByteDance** (Shenzhen, China) as a TikTok Product Operations Intern. Utilized proprietary data analytics tools to evaluate product metrics, analyze user behavior, and drive data-informed strategies.
 
 ---
 
