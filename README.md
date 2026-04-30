@@ -1,8 +1,8 @@
-NLP/ML Research, Engineering Design & Innovation 🚀
+NLP/ML Research, Engineering Design & Innovation 
 
 # Data Scientist & Software Engineer
 
-Technically Curious
+Technically Curious Forever.❤
 
 ---
 
