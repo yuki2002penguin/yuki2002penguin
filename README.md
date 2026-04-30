@@ -2,7 +2,9 @@
 
 # Data Scientist & Software Engineer
 
-Technically Curious Forever.❤
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Technically+Curious+Forever.+%E2%9D%A4" alt="Typing SVG" />
+</p>
 
 ---
 
