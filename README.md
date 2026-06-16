@@ -29,7 +29,6 @@ I am a Master's student in Engineering Design at the Institute of Science Tokyo,
 ## Research Interests
 - Machine Translation Evaluation
 - LLM-as-a-Judge
-- Minimum Bayes Risk (MBR) Decoding
 - Human Preference Modeling
 - Natural Language Processing
 
